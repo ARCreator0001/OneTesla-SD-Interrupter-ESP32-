@@ -1,6 +1,6 @@
-# oneTesla SD Interrupter – ESP32 Port
+# oneTesla Musical SD Interrupter – ESP32 
 
-Port of the oneTesla SD-card interrupter from ATmega328/SdFat/parallel LCD to ESP32 (tested on ESP32 DevKit / NodeMCU-32S) with:
+Port of the oneTesla musical SD card interrupter from ATmega328/SdFat/parallel LCD to ESP32 (tested on ESP32 DevKit / NodeMCU-32S) with:
 - I2C 16×2 LCD (addr 0x27)
 - Arduino `SD` library (ESP32 SPI)
 - Buttons on GPIO32/33/27
