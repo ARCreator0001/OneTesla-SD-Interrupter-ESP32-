@@ -93,7 +93,7 @@ Spent a lot of time and many sleepless nights for these nice designs :)
 | --- | --- | --- | --- | --- | --- |
 | PCB board fabrication | 1 used 5 MOQ |Lion Circuits or ~~Robu.in~~ | ~~robu(₹3556/$37.7)~~, Lion ₹2983 $31.74 | ~~robu(same)~~,Lion ₹2983 $31.74 |Cannot link to quote|
 
-| 2.54MM male Pin headers | 5 pins(2+3) | Local shop | Already own | Already own |
+| 2.54MM male Pin headers | 5 pins(2+3) | Local shop | Already own | Already own | |
 |Power Switch Latching|1|LCSC|$0.84|$0.84|[link](https://www.lcsc.com/product-detail/C22386787.html?spm=wm.gwc.xh.7.cbm___wm.sxq.ssl.gwc&lcsc_vid=RAIIXwdQElVfUAVfEgNfVlFWEVQIXwcAR1RbVVFeTlIxVlNRQ1hYXlxWRVBfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D)|
 |USB C Port Connector|1|LCSC|$1.06|$1.06|[link](https://www.lcsc.com/product-detail/C20624793.html?spm=wm.gwc.xh.8.cbm___wm.sxq.ssl.gwc&lcsc_vid=RAIIXwdQElVfUAVfEgNfVlFWEVQIXwcAR1RbVVFeTlIxVlNRQ1hYXlxWRVBfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D)|
 |Tactile Button|3|LCSC|$0.06|$0.06|[link](https://www.lcsc.com/product-detail/C7528723.html?spm=wm.gwc.xh.6.cbm___wm.sxq.ssl.gwc&lcsc_vid=RAIIXwdQElVfUAVfEgNfVlFWEVQIXwcAR1RbVVFeTlIxVlNRQ1hYXlxWRVBfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D)|
