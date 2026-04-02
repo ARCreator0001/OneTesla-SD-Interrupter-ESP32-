@@ -77,12 +77,10 @@ It is powered by a 9V battery inside the battery compartment by default, but USB
 <img width="992" height="762" alt="image" src="https://github.com/user-attachments/assets/0e483338-82aa-4360-8ca8-ee8dfd671f4a" />
 <img width="1103" height="634" alt="image" src="https://github.com/user-attachments/assets/da671fe7-a5e1-48c3-b2bf-8681943b2bd4" />
 <img width="1054" height="700" alt="image" src="https://github.com/user-attachments/assets/72788fde-34f4-43f1-9fd9-15f5e951fe4e" />
-
 <img width="1032" height="812" alt="image" src="https://github.com/user-attachments/assets/413a8464-317f-4809-94f0-a928c2feb570" />
 <img width="1047" height="835" alt="image" src="https://github.com/user-attachments/assets/8d12908c-c802-4836-a0dd-734005201af4" />
 <img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/72fe30d3-3e3c-4d01-b53e-f4ffe767c5de" />
 <img width="1310" height="826" alt="image" src="https://github.com/user-attachments/assets/e55e008d-4078-47d0-bec6-ccba448f418a" />
-<img width="989" height="579" alt="image" src="https://github.com/user-attachments/assets/9bc68cc7-0817-467c-ad2a-499d170b419a" />
 <img width="1170" height="735" alt="image" src="https://github.com/user-attachments/assets/a160d0d6-d68f-4ae5-8933-08075a5ff77e" />
 <img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/bb9f048d-a60a-4a5c-b9d1-7baddd771605" />
 <img width="1194" height="737" alt="image" src="https://github.com/user-attachments/assets/fc06c8cb-4a9f-4e1f-a545-51790129f071" />
