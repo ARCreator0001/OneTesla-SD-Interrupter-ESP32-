@@ -1,6 +1,8 @@
 # ESP32 Musical Tesla Coil interrupter - a truly versatile interrupter
 
-<img width="1173" height="780" alt="Screenshot 2026-03-31 191702" src="https://github.com/user-attachments/assets/895df138-9f52-4e8f-a685-fe6be60445a1" />
+<img width="1257" height="724" alt="image" src="https://github.com/user-attachments/assets/06b8d16a-2eb3-4a12-a401-15702a54bbad" />
+<img width="1048" height="626" alt="image" src="https://github.com/user-attachments/assets/0a7b73ee-704c-430d-9e90-3e3829a2eea8" />
+
 
 
 <img width="1102" height="761" alt="Screenshot 2026-03-31 202751" src="https://github.com/user-attachments/assets/1bad1ee0-b1f1-484d-b681-b96e319bf2ea" />
