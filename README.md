@@ -141,7 +141,7 @@ Spent a lot of time and many sleepless nights for these nice designs :)
 <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/be509a54-4a1c-4d58-9a77-3b5e6cfbb854" />
 <img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/0a687b3c-43eb-4415-8762-64847ac0c2db" />
 <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/2951c77e-ba66-4815-adc2-29a5bb13a883" />
-<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/f4e5fb5f-e2d9-4ccf-b03c-93d24035223a" />
+
 
 <img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/415cf5db-4ea6-4080-85b6-b63f5b300836" />
 <img width="1916" height="963" alt="image" src="https://github.com/user-attachments/assets/106d0382-2154-4d47-a9b9-3207e09d75ca" />
